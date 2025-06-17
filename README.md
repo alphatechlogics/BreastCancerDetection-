@@ -2,6 +2,8 @@
 
 Welcome to the Breast Tumor Detection project! This project demonstrates to build, train, and deploy a deep learning model that detects breast tumors from mammogram images.
 
+![](https://raw.github.com/alphatechlogics/BreastCancerDetection-/9d22db5516fc2d77739c9c5c7bc474368b882769/Screenshot%202025-06-17%20231717.png)
+
 ---
 
 ## 📊 Dataset Overview
